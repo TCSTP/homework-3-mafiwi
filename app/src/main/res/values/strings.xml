@@ -22,8 +22,8 @@
     <string name="description_go_to_shop">Go to shop</string>
     <string name="description_add_to_cart">Add to cart</string>
     <string name="description_remove_from_cart">Remove from cart</string>
-    <string name="description_decrease_amount">Decrease Amount</string>
-    <string name="description_increase_amount">Increase Amount</string>
+    <string name="description_decrease_amount">-</string>
+    <string name="description_increase_amount">+</string>
 
     <string name="more_than_99">99+</string>
     <string name="total_price">Total: %1$s</string>
@@ -39,7 +39,7 @@
     <string name="name_computer">Computer</string>
     <string name="name_knives">Knives</string>
     <string name="name_onion">Onion</string>
-    <string name="name_scissor">Scissor</string>
+    <string name="name_scissor">Scissors</string>
     <string name="name_spaghetti">Spaghetti</string>
     <string name="name_table">Table</string>
     <string name="name_tomato">Tomato</string>
