@@ -9,3 +9,4 @@ value class Shop(val prices: Map<Item, Euro>) : Parcelable {
     val items
         get() = prices.keys
 }
+
